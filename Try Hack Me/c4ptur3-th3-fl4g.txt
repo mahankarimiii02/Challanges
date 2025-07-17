@@ -1,0 +1,53 @@
+Task 1 - Translation & Shifting 
+
+	Q1 - c4n y0u c4p7u23 7h3 f149?
+	answer > can you capture the flag?
+
+	Q2 - 01101100 01100101 01110100 01110011 00100000 01110100 01110010 01111001 00100000 01110011 01101111 0110 ... 001
+	answer > lets try some binary out!
+
+	Q3 - MJQXGZJTGIQGS4ZAON2XAZLSEBRW63LNN5XCA2LOEBBVIRRHOM======
+	answer > base32 is super common in CTF's
+
+	Q4 - RWFjaCBCYXNlNjQgZGlnaXQgcmVwcmVzZW50cyBleGFjdGx5IDYgYml0cyBvZiBkYXRhLg==
+	answer > Each Base64 digit represents exactly 6 bits of data.
+
+	Q5 - 68 65 78 61 64 65 63 69 6d 61 6c 20 6f 72 20 62 61 73 65 31 36 3f
+	answer > hexadecimal or base16?
+
+	Q6 - Ebgngr zr 13 cynprf!
+	answer > Rotate me 13 places!
+
+	Q7 - *@F DA:? >6 C:89E C@F?5 323J C:89E C@F?5 Wcf E:>6DX
+	answer > You spin me right round baby right round (47 times)
+
+	Q8 - - . .-.. . -.-. --- -- -- ..- -. .. -.-. .- - .. --- -.
+	         . -. -.-. --- -.. .. -. --.
+	answer > telecommunication encoding
+
+	Q9 - 85 110 112 97 99 107 32 116 104 105 115 32 66 67 68
+	answer > Unpack this BCD
+
+	Q10 - LS0tLS0gLi0tLS0gLi0tLS0gLS0tLS0 ... tLS0gLi0tLS0=
+	answer > Let's make this a bit trickier...
+
+--------------------------------------------------
+Task 2 - Spectrograms
+
+	Q1 - Download The File
+	answer > Super Secret Message
+
+--------------------------------------------------
+Task 3 - Steganography
+
+	Q1 - Decode the image to reveal the answer.
+	answer > SpaghettiSteg
+
+--------------------------------------------------
+Task 4 - Security through obscurity
+
+	Q1 - Download and get 'inside' the file. What is the first filename & extension?
+	answer > hackerchat.png
+
+	Q2 - Get inside the archive and inspect the file carefully. Find the hidden text.
+	answer > AHH_YOU_FOUND_ME!
