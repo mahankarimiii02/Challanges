@@ -1,0 +1,70 @@
+Task 1 - Introduction  
+
+	Q1 - no answer needed
+
+--------------------------------------------------
+Task 2 - Intro to Initial Access  
+
+	Q1 - Which MITRE technique ID describes Initial Access via a vulnerable mail server?
+	answer > T1190
+
+	Q2 - Which Initial Access method relies on a user opening a malicious email attachment?
+	answer > Phishing
+
+--------------------------------------------------
+Task 3 - Initial Access via RDP 
+
+	Q1 - Which user seems to be most actively targeted by botnets?
+	answer > Administrator
+
+	Q2 - Which IP managed to breach the host and enter the RDP session?
+	answer > 203.205.34.107
+
+	Q3 - Can you get the real Workstation Name (hostname) of the threat actor?
+	answer > DESKTOP-QNBC4UU
+
+--------------------------------------------------
+Task 4 - Initial Access via Phishing
+
+	Q1 - Let's play the role of the untrained user and mindlessly open the COM file. Run the www.zoom.com file from the Phishing Case 1 folder, which flag do you get?
+	answer > THM{misleading_extension}
+
+	Q2 - Continue with the second attachment from the Phishing Case 2 folder. From which URL does the malicious LNK download the next stage malware?
+	answer > http://wp16.hqywlqpa.thm:8000/cgi-bin/f
+
+	Q3 - Finally, move on to the Phishing Case 3 folder and review its content. What is the name of the double-extension file you see there?
+	answer > best-cat.jpg.exe
+
+--------------------------------------------------
+Task 5 - Continuing Phishing Topic 
+
+	Q1 - Which file did the user download via the web browser?
+	answer > C:\Users\Administrator\Downloads\top-cats.zip
+
+	Q2 - In which folder did the user unarchive the suspicious file?
+	answer > C:\Users\Administrator\Pictures
+
+	Q3 - What is the process ID of the launched phishing malware?
+	answer > 5484
+
+	Q4 - Finally, which malicious domain did the malware try to connect to?
+	answer > rjj.store
+
+--------------------------------------------------
+Task 6 - Initial Access via USB
+
+	Q1 - Which USB file was launched by the user?
+	answer > E:\Open Sandisk 4GB USB.exe
+
+	Q2 - Which suspicious file did the malware drop to the disk? (Format: full path to the file, e.g. C:\file.txt)
+	answer > C:\Users\Public\Documents\winupdate.exe
+
+	Q3 - To which other USB did the malware propagate? (Format: just the letter, e.g. X:)
+	answer > F:
+
+
+--------------------------------------------------
+Task 7 - Conclusion
+
+	Q1 - no answer needed
+
